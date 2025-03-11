@@ -1,9 +1,9 @@
 # EEAE Asignaturas
 
 ## E2T Técnicas de apoyo CIS-TIC
-🎏 [HTML](https://13sauca13.github.io/EEAE-HTML/)
+🎏 [HTML](https://github.com/13sauca13/EEAE-HTML/blob/main/README.md)
 
-🐍[Metodología de la programación II](https://13sauca13.github.io/EEAE)
+🐍[Metodología de la programación II](https://github.com/13sauca13/Python/blob/main/README.md)
 
 ## Aptitud Operador de Ordenadores
-💽 [Sistemas Operativos](https://13sauca13.github.io/EEAE-Sistemas-Operativos/)
+💽 [Sistemas Operativos](https://github.com/13sauca13/EEAE-Sistemas-Operativos/blob/main/README.md)
