@@ -5,7 +5,7 @@
 
 🐍[Metodología de la programación II](https://github.com/13sauca13/Python/blob/main/README.md)
 
-🐙:octocat::[GIT](https://github.com/13sauca13/Git/blob/main/README.md)
+🐙[GIT](https://github.com/13sauca13/Git/blob/main/README.md)
 
 ## Aptitud Operador de Ordenadores
 💽 [Sistemas Operativos](https://github.com/13sauca13/EEAE-Sistemas-Operativos/blob/main/README.md)
